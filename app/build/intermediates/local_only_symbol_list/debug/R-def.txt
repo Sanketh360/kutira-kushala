@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+drawable onboarding_01
+drawable onboarding_02
+drawable onboarding_03
+drawable onboarding_04
+drawable onboarding_05
+drawable onboarding_06
+drawable onboarding_07
+drawable onboarding_08
+drawable onboarding_09
+drawable onboarding_10
+drawable onboarding_11
+drawable onboarding_12
+drawable onboarding_16
+drawable onboarding_17
+drawable onboarding_18
+drawable onboarding_20
+drawable onboarding_21
+drawable onboarding_22
+drawable onboarding_23
+drawable onboarding_24
+drawable onboarding_26
+string default_web_client_id
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+style Theme.MyStoreKotlin
+xml backup_rules
+xml data_extraction_rules

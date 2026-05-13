@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_18.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_18.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_04.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_04.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_23.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_23.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/xml_backup_rules.xml.flat",
+        "source": "com.example.mystore.app-main-68:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_10.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_10.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_17.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_17.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mystore.app-main-68:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_05.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_05.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_22.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_22.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_11.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_11.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_16.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_16.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_03.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_03.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_24.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_24.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_09.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_09.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_08.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_08.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_12.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_12.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_02.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_02.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_21.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_21.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_07.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_07.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_06.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_06.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_20.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_20.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_01.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_01.jpg"
+    },
+    {
+        "merged": "com.example.mystore.app-debug-66:/drawable_onboarding_26.jpg.flat",
+        "source": "com.example.mystore.app-main-68:/drawable/onboarding_26.jpg"
+    }
+]

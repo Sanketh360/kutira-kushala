@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1015460904025-g8vfklo97bemjilvb0lcdu95ak99l5bi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1015460904025</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXBR_3g8h4JmgAPZaUFNXEjKZCOltbAwM</string>
+    <string name="google_app_id" translatable="false">1:1015460904025:android:0e04782127db2e2c864548</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXBR_3g8h4JmgAPZaUFNXEjKZCOltbAwM</string>
+    <string name="google_storage_bucket" translatable="false">chatur-689f5.firebasestorage.app</string>
+    <string name="project_id" translatable="false">chatur-689f5</string>
+    <style name="Theme.MyStoreKotlin" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
