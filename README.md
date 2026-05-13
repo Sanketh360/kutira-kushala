@@ -1,4 +1,4 @@
-# Kutira-Kushala 🧺
+# Kutira-Kushala (Self-Employment)  🧺
 
 Kutira-Kushala is a modern, community-driven marketplace designed to empower rural artisans and small businesses. The app provides a platform for sellers to showcase handmade crafts, organic products, and local services to a wider audience, creating a direct connection between producers and consumers.
 
