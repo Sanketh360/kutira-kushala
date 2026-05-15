@@ -1,5 +1,6 @@
 R_DEF: Internal format may change without notice
 local
+drawable app_logo
 drawable onboarding_01
 drawable onboarding_02
 drawable onboarding_03
@@ -21,6 +22,9 @@ drawable onboarding_22
 drawable onboarding_23
 drawable onboarding_24
 drawable onboarding_26
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
 string default_web_client_id
 string gcm_defaultSenderId
 string google_api_key

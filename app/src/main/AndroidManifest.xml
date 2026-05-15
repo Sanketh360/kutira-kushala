@@ -10,13 +10,15 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:label="My Store Kotlin"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyStoreKotlin" >
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:label="My Store Kotlin"
+            android:label="@string/app_name"
             android:theme="@style/Theme.MyStoreKotlin">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

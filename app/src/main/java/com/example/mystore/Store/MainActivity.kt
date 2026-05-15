@@ -103,8 +103,8 @@ fun AppNavigation() {
                         )
                     )
                     NavigationBarItem(
-                        icon = { Icon(Icons.Default.Store, contentDescription = "My Store") },
-                        label = { Text("My Store") },
+                        icon = { Icon(Icons.Default.Store, contentDescription = "Store") },
+                        label = { Text("Store") },
                         selected = currentRoute == "my_store",
                         onClick = {
                             navController.navigate("my_store") {

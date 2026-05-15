@@ -146,21 +146,18 @@ fun OnboardingScreen(navController: NavController) {
                     // ── Logo ──────────────────────────────────────
                     Box(
                         modifier           = Modifier
-                            .size(80.dp)
+                            .size(100.dp)
                             .scale(scaleValue.value)
                             .shadow(
-                                elevation     = 12.dp,
+                                elevation     = 16.dp,
                                 shape         = CircleShape,
-                                ambientColor  = Color.Black.copy(alpha = 0.15f),
-                                spotColor     = Color.Black.copy(alpha = 0.15f),
-                            )
+                                ambientColor  = Color.Black.copy(alpha = 0.2f),
+                                spotColor     = Color.Black.copy(alpha = 0.2f),
+                             )
                             .clip(CircleShape)
                             .background(Color.White),
                         contentAlignment = Alignment.Center,
                     ) {
-                        // painterResource is @Composable — cannot be called inside runCatching.
-                        // Use a simple existence check via resources instead, then call
-                        // painterResource unconditionally only when the resource exists.
                         val context = androidx.compose.ui.platform.LocalContext.current
                         val logoResId = context.resources.getIdentifier(
                             "app_logo", "drawable", context.packageName
@@ -168,19 +165,19 @@ fun OnboardingScreen(navController: NavController) {
                         val hasLogo = logoResId != 0
 
                         if (hasLogo) {
-//                            Image(
-//                                painter            = painterResource(id = logoResId),
-//                                //contentDescription = "Kutira-Kushala logo",
-//                                modifier           = Modifier
-//                                    .size(68.dp)
-//                                    .padding(6.dp),
-//                                contentScale       = ContentScale.Fit,
-//                            )
+                            Image(
+                                painter            = painterResource(id = logoResId),
+                                contentDescription = "Kutira-Kushala logo",
+                                modifier           = Modifier
+                                    .fillMaxSize()
+                                    .clip(CircleShape),
+                                contentScale       = ContentScale.Crop,
+                            )
                         } else {
                             Text(
                                 text  = "K",
                                 color = Color(0xFF2563EB),
-                                fontSize   = 42.sp,
+                                fontSize   = 48.sp,
                                 fontWeight = FontWeight.Bold,
                             )
                         }
@@ -190,7 +187,7 @@ fun OnboardingScreen(navController: NavController) {
 
                     // ── Title ─────────────────────────────────────
                     Text(
-                        text       = "Welcome to Kutira-Kushala",
+                        text       = "Welcome to Kutira Kushala",
                         fontSize   = 32.sp,
                         fontWeight = FontWeight.Bold,
                         color      = Color(0xFF1F2937),

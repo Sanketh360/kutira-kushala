@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Kutira Kushala</string>
     <!-- Web Client ID from google-services.json -->
     <string name="default_web_client_id">1015460904025-g8vfklo97bemjilvb0lcdu95ak99l5bi.apps.googleusercontent.com</string>
 </resources>

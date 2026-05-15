@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.navigation:navigation-common:2.7.6] C:\Users\sanke\.gradle\caches\9.0.0\transforms\e7c5fd903cc8745148365ee2e3548400\transformed\navigation-common-2.7.6\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.6] C:\Users\sanke\.gradle\caches\9.0.0\transforms\41db3ce5a47b2e7e951a22a3ba316f2b\transformed\navigation-runtime-2.7.6\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] C:\Users\sanke\.gradle\caches\9.0.0\transforms\ca72d4b2a00108770453eafc3eeea9fd\transformed\navigation-common-ktx-2.7.6\AndroidManifest.xml:2:1-7:12
@@ -130,8 +130,8 @@ ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:7:5-88
 	android:name
 		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:7:19-60
 application
-ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:9:5-26:19
-INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:9:5-26:19
+ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:9:5-28:19
+INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:9:5-28:19
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\sanke\.gradle\caches\9.0.0\transforms\d409c772af1485689742db2e1627eee8\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
 MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\sanke\.gradle\caches\9.0.0\transforms\d409c772af1485689742db2e1627eee8\transformed\jetified-play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
 MERGED from [com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\sanke\.gradle\caches\9.0.0\transforms\b9c938d30e1585cb71d12c2bd32f00af\transformed\jetified-firebase-auth-ktx-22.3.0\AndroidManifest.xml:7:5-15:19
@@ -181,37 +181,41 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\sanke\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] C:\Users\sanke\.gradle\caches\9.0.0\transforms\9a14c23d8679bb9a6ba039327351d256\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:15:9-41
 	android:fullBackupContent
 		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
 		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:15:9-51
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:17:9-51
 	android:dataExtractionRules
 		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:11:9-65
 activity#com.example.mystore.MainActivity
-ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:16:9-25:20
+ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:18:9-27:20
 	android:label
-		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:19:13-44
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:21:13-45
 	android:exported
-		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:18:13-36
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:20:13-36
 	android:theme
-		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:20:13-55
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:22:13-55
 	android:name
-		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:21:13-24:29
+ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
-ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml:25:27-74
 uses-sdk
 INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\My_Store_Kotlin\app\src\main\AndroidManifest.xml

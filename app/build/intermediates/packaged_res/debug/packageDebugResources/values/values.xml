@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Kutira Kushala</string>
     <string name="default_web_client_id" translatable="false">1015460904025-g8vfklo97bemjilvb0lcdu95ak99l5bi.apps.googleusercontent.com</string>
     <string name="gcm_defaultSenderId" translatable="false">1015460904025</string>
     <string name="google_api_key" translatable="false">AIzaSyDXBR_3g8h4JmgAPZaUFNXEjKZCOltbAwM</string>
