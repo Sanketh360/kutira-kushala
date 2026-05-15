@@ -53,7 +53,7 @@ Kutira-Kushala is a modern, community-driven marketplace designed to empower rur
 ## 📸 App Preview
 
 <p align="center">
-  <img src="screenshots/app_preview.png" width="600"/>
+  <img src="screenshots/app_preview.png" width="800"/>
 </p>
 
 ---
