@@ -50,6 +50,15 @@ Kutira-Kushala is a modern, community-driven marketplace designed to empower rur
 
 ---
 
+## 📸 App Preview
+
+<p align="center">
+  <img src="screenshots/app_preview.png" width="300"/>
+</p>
+
+---
+
+
 ## 📥 Download the App
 
 Download the latest APK from Google Drive:
